@@ -1,4 +1,4 @@
-![MasterHead](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg)
+<!-- ![MasterHead](https://arka-live.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg)   -->
 
 <h1 align="center">Hii👋, I'm Suman Saini aka Simmii🌻</h1> 
 
